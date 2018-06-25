@@ -1,0 +1,20 @@
+{
+  "name": "replace-range",
+  "description": "Replace a string of each range",
+  "types": "replace-range.d.ts",
+  "version": "0.0.0",
+  "keywords": [
+    "replace"
+  ],
+  "files": [
+    "replace-range.js",
+    "replace-range.d.ts"
+  ],
+  "main": "replace-range.js",
+  "repository": "nju33/replace-range",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
