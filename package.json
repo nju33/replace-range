@@ -2,7 +2,7 @@
   "name": "replace-range",
   "description": "Replace a string of each range",
   "types": "replace-range.d.ts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [
     "replace"
   ],
